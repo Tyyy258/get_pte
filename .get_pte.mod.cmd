@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/get_pte/get_pte.mod := printf '%s\n'   get_pte.o | awk '!x[$$0]++ { print("/home/ubuntu/op-tee/yzc/modules/get_pte/"$$0) }' > /home/ubuntu/op-tee/yzc/modules/get_pte/get_pte.mod

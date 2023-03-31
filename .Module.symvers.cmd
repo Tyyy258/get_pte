@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/get_pte/Module.symvers :=  scripts/mod/modpost       -o /home/ubuntu/op-tee/yzc/modules/get_pte/Module.symvers -T /home/ubuntu/op-tee/yzc/modules/get_pte/modules.order -i Module.symvers -e 

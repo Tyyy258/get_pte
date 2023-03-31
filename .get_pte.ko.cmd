@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/get_pte/get_pte.ko := /home/ubuntu/op-tee/toolchains/aarch64/bin/aarch64-linux-gnu-ld -r  -EL  -maarch64elf -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/op-tee/yzc/modules/get_pte/get_pte.ko /home/ubuntu/op-tee/yzc/modules/get_pte/get_pte.o /home/ubuntu/op-tee/yzc/modules/get_pte/get_pte.mod.o;  true
